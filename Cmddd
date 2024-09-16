@@ -1,0 +1,4 @@
+#curl -o C:\path\to\save\file.zip https://example.com/file.zip
+#curl -o C:\path\to\save\file.zip https://github.com/gentilkiwi/mimikatz
+#powershell -command "Invoke-WebRequest -Uri 'https://example.com/file.zip' -OutFile 'C:\path\to\save\file.zip'"
+#powershell -command "Invoke-WebRequest -Uri 'https://example.com/file.zip' -OutFile 'C:\Downloads\example.zip'"
